@@ -1,0 +1,5 @@
+<h1> Faça seu registro</h1> 
+<form>
+<input type = "text" name = "usuario"/>
+<button>Cadastrar</button>
+</form>

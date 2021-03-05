@@ -1,0 +1,21 @@
+{{> header}}
+
+
+<h2>Adicionar POST</h2>
+
+<form method="POST">
+<label>
+Titulo
+<input type="text" name="title"/>
+</label>
+<br/>
+<label>
+Corpo:
+<textarea name="body"></textarea>
+<label>
+<br/>
+Tags:
+</label>
+<br/>
+<input type="submit" value="salvar"/>
+</form>
